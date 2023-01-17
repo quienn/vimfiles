@@ -22,6 +22,7 @@ set showmatch
 set history=1000
 
 set nowrap
+set autoindent
 set tabstop=2
 set shiftwidth=2
 set softtabstop=2
