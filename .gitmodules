@@ -41,3 +41,6 @@
 [submodule "pack/bundle/start/airline-themes"]
 	path = pack/bundle/start/airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "pack/bundle/start/zoxide"]
+	path = pack/bundle/start/zoxide
+	url = https://github.com/nanotee/zoxide.vim
