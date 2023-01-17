@@ -1,4 +1,5 @@
 set ttyfast
+set termguicolors
 
 set noeb vb t_vb=
 set nocompatible

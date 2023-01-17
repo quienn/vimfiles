@@ -1,5 +1,5 @@
-colorscheme one
+colorscheme solarized
 
 if strftime("%H") >= 7 && strftime("%H") < 18
-	set background=light
+  set background=light
 endif

@@ -16,9 +16,6 @@
 [submodule "pack/bundle/start/projectionist"]
 	path = pack/bundle/start/projectionist
 	url = https://github.com/tpope/vim-projectionist
-[submodule "pack/bundle/start/one"]
-	path = pack/bundle/start/one
-	url = https://github.com/rakr/vim-one
 [submodule "pack/bundle/start/airline"]
 	path = pack/bundle/start/airline
 	url = https://github.com/vim-airline/vim-airline
@@ -38,3 +35,9 @@
 [submodule "pack/bundle/start/nerdtree"]
 	path = pack/bundle/start/nerdtree
 	url = https://github.com/preservim/nerdtree
+[submodule "pack/bundle/start/solarized"]
+	path = pack/bundle/start/solarized
+	url = https://github.com/ericbn/vim-solarized
+[submodule "pack/bundle/start/airline-themes"]
+	path = pack/bundle/start/airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
