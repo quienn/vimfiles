@@ -1,0 +1,18 @@
+[submodule "pack/bundle/start/sensible"]
+	path = pack/bundle/start/sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "pack/bundle/start/commentary"]
+	path = pack/bundle/start/commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "pack/bundle/start/surround"]
+	path = pack/bundle/start/surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/bundle/start/vinegar"]
+	path = pack/bundle/start/vinegar
+	url = https://github.com/tpope/vim-vinegar
+[submodule "pack/bundle/start/dispatch"]
+	path = pack/bundle/start/dispatch
+	url = https://github.com/tpope/vim-dispatch
+[submodule "pack/bundle/start/projectionist"]
+	path = pack/bundle/start/projectionist
+	url = https://github.com/tpope/vim-projectionist
