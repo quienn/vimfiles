@@ -22,6 +22,8 @@ set showmatch
 
 set history=1000
 
+set laststatus=2
+
 set nowrap
 set autoindent
 set tabstop=2
