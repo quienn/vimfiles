@@ -16,3 +16,21 @@
 [submodule "pack/bundle/start/projectionist"]
 	path = pack/bundle/start/projectionist
 	url = https://github.com/tpope/vim-projectionist
+[submodule "pack/bundle/start/one"]
+	path = pack/bundle/start/one
+	url = https://github.com/rakr/vim-one
+[submodule "pack/bundle/start/airline"]
+	path = pack/bundle/start/airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/bundle/start/ctrlspace"]
+	path = pack/bundle/start/ctrlspace
+	url = https://github.com/vim-ctrlspace/vim-ctrlspace
+[submodule "pack/bundle/start/gitgutter"]
+	path = pack/bundle/start/gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/bundle/start/coc"]
+	path = pack/bundle/start/coc
+	url = https://github.com/neoclide/coc.nvim
+[submodule "pack/bundle/start/polyglot"]
+	path = pack/bundle/start/polyglot
+	url = https://github.com/sheerun/vim-polyglot
